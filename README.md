@@ -5,7 +5,7 @@ High school student at TPN
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [here](http://jirayuwebsitefolio.firebaseapp.com)
-* ✉️  You can contact me at [jirhayuxnine@gmail.com](mailto:jirhayuxnine@gmail.com)
+* ✉️  You can contact me at [jirhayuxnine@gmail.com](mailto:JirhayuThongchatchoung.Work@gmail.com)
 
 ### Skills
 
