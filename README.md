@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 High school student at TPN
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [here](http://jirayuwebsitefolio.firebaseapp.com)
+* 🖥️  See my portfolio at [here](https://jirhayuthongchotchoung.github.io/JirhayuWebfolio/)
 * ✉️  You can contact me at [JirhayuThongchotchoung.Work@gmail.com](mailto:JirhayuThongchatchoung.Work@gmail.com)
 
 ### Skills
